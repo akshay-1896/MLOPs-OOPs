@@ -16,10 +16,12 @@ class employee:
 # create an object/instance of the class
 sam = employee()
 
+# calling attributes
 # print(sam.id)
 # print(sam.designation)
 # print(sam.salary)
 
+# calling a method
 # sam.travel("Kerala")
 
 print(type(sam))
